@@ -62,11 +62,16 @@ When inflation was lagged by one year, the relationship became substantially str
 ## Project Structure
 
 ```text
-Inflation_vs_Interest_Rate.py
-inflation.csv
-interest_rate.csv
+data/
+│   ├── inflation.csv
+│   ├── interest_rate.csv
+│
 graphs/
-```
+│   ├── inflation_vs_interest_rate.png
+│   ├── regression_plot.png
+│
+Inflation_vs_Interest_Rate.py
+README.md
 
 ## Data Sources
 
@@ -77,4 +82,4 @@ graphs/
 ## Author
 
 Hephzibah
-
+Management studies student specialising in Statistics, Finance and Tax
