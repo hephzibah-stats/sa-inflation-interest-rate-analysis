@@ -59,6 +59,10 @@ The analysis found a moderate positive relationship between inflation and repo r
 
 When inflation was lagged by one year, the relationship became substantially stronger. This suggests that monetary policy responses may occur with a delay rather than immediately following changes in inflation.
 
+## Why this matters
+
+Understanding the relationship between inflation and interest rates is important for monetary policy, banking strategy, and financial forecasting.
+
 ## Project Structure
 
 ```text
@@ -78,6 +82,14 @@ README.md
 * Statistics South Africa (inflation data)
 * South African Reserve Bank (repo rate data)
 * World Bank (cross-checking and validation)
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install pandas matplotlib scikit-learn
+3. Run the script:
+   python Inflation_vs_Interest_Rate.py
 
 ## Author
 
