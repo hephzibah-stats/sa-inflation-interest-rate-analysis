@@ -31,6 +31,16 @@ The analysis was conducted using Python and explores whether changes in inflatio
 6. Fit a linear regression model.
 7. Visualise the results using line charts and regression plots.
 
+## Visualisations
+
+### Inflation Rate vs Repo Rate
+
+![Inflation vs Repo Rate](graphs/inflation_vs_interest_rate.png)
+
+### Regression Analysis
+
+![Regression Plot](graphs/regression_plot.png)
+
 ## Results
 
 ### Correlation Analysis
